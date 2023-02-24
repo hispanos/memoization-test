@@ -1,0 +1,15 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: aqua
+}
+
+/* @media (max-width: 400px) {
+    .box {
+        background-color: bisque;
+    }
+} */
+
+.box-brown {
+    background-color: bisque
+}
